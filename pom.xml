@@ -4,7 +4,7 @@
 
   <groupId>org.falconia</groupId>
   <artifactId>spring-boot-starter-dubbox</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>Spring Boot Dubbox Starter</name>
